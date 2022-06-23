@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: blue;
+  font-size: 2rem;
+}
+
+body {
+  padding: 5px;
+  margin: 30px;
+}
+
+img {width: 500px;
+height: %}
