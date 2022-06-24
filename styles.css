@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 h1 {
@@ -13,5 +13,16 @@ body {
   margin: 30px;
 }
 
-img {width: 500px;
-height: %}
+img {
+  width: 500px;
+  height: %;
+}
+
+.socialcard {
+  padding: 10px;
+  background: white;
+  color: black;
+  box-shadow: 1px 1px 1px 1.2px #888888;
+  border-radius: 5px;
+  font-size: 16px;
+}
