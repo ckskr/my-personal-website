@@ -6,8 +6,6 @@
 #F2E9E4
 */
 
-
-
 /* Overall */
 
 * {
@@ -38,8 +36,10 @@ body {
 
 /* Navigation */
 
-header {background-color: #c429ad;
-display: flex;}
+header {
+  background-color: #c429ad;
+  display: flex;
+}
 
 nav ul {
   margin: 0;
@@ -51,7 +51,6 @@ nav ul {
   flex-wrap: wrap;
   text-decoration: none;
 }
-
 
 /* Headlines */
 
